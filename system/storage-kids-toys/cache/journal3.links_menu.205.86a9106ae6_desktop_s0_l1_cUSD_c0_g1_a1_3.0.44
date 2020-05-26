@@ -1,0 +1,277 @@
+<?php $val = array (
+  'css' => 'div.links-menu-205 .module-body{padding:7px;display:flex;flex-direction:row;justify-content:flex-start;;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;;column-count:initial;column-gap:30px;column-rule-width:1px;column-rule-style:solid}div.links-menu-205 .menu-item{border-width:0 0 0 1px;flex-grow:0;justify-content:flex-start;width:auto;white-space:nowrap}div.links-menu-205 .menu-item a .links-text{white-space:nowrap;font-size:13px}div.links-menu-205 .menu-item
+a{justify-content:flex-start;width:auto;padding-left:7px}div.links-menu-205 .menu-item a::before{content:\'\\f111\' !important;font-family:icomoon !important;font-size:3px;margin-right:7px}.mobile.touchevents div.links-menu-205 .module-body{overflow-x:scroll}div.links-menu-205 .module-body::-webkit-scrollbar{-webkit-appearance:none;height:1px}div.links-menu-205 .module-body::-webkit-scrollbar-track{background-color:white}div.links-menu-205 .module-body::-webkit-scrollbar-thumb{background-color:#999}div.links-menu-205 .count-badge{display:none}.phone footer  div.links-menu-205 .module-title::before{display:block}.phone footer  div.links-menu-205 .module-title.closed+.module-body>li{display:none}.phone footer  div.links-menu-205 .module-title.closed{margin:0}div.links-menu-205 .links-menu-item-1>a::before{content:none !important}div.links-menu-205 .links-menu-item-1
+a{padding-right:3px}div.links-menu-205 .links-menu-item-1 a .links-text{color:rgba(105, 105, 115, 1);font-weight:700;text-decoration:none}div.links-menu-205 .links-menu-item-1:hover a .links-text{text-decoration:none}div.links-menu-205 .links-menu-item-2>a::before{content:none !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'status' => true,
+    'id' => 'links-menu-5ecd321cc09c5',
+    'module_id' => 205,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-205',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Don\'t Miss:',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Create',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Any Links',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Vertical',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Horizontal',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => '#',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Custom Popups',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '22',
+          'href' => 'javascript:open_popup(22)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

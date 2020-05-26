@@ -1,0 +1,326 @@
+<?php $val = array (
+  'css' => '.icons-menu-209 .title.module-title{font-size:15px;border-width:0px;padding:0px;white-space:normal;overflow:visible;text-overflow:initial}.icons-menu-209 .title.module-title::after{display:none}.icons-menu-209 .title.module-title.page-title>span::after{display:none}.icons-menu-209
+a{background:rgba(241, 242, 245, 1);width:80px;height:80px}.desktop .icons-menu-209 a:hover{background:rgba(13, 82, 214, 1)}.icons-menu-209 a::before{color:rgba(105, 105, 115, 1);font-size:40px}.icons-menu-209 .menu-item
+a{border-radius:3px}.desktop .icons-menu-209 a:hover::before{color:rgba(255, 255, 255, 1)}.icons-menu-209 > ul > .menu-item > a .links-text{color:rgba(105, 105, 115, 1)}.desktop .icons-menu-209 > ul > .menu-item > a:hover .links-text{color:rgba(255, 255, 255, 1)}.icons-menu-209 .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.icons-menu-209>ul>.icons-menu-item{padding:calc(10px / 2)}.icons-menu-209
+ul{justify-content:flex-start}.icons-menu-209 .module-title{text-align:left}.icons-menu-209 .module-title::after{left:0;right:auto;transform:none}.icons-menu-209 .icons-menu-item-1.icon-menu-icon>a::before{content:\'\\e921\' !important;font-family:icomoon !important;font-size:45px}.icons-menu-209 .icons-menu-item-2.icon-menu-icon>a::before{content:\'\\e909\' !important;font-family:icomoon !important;font-size:45px}.icons-menu-209 .icons-menu-item-3.icon-menu-icon>a::before{content:\'\\e971\' !important;font-family:icomoon !important}.icons-menu-209 .icons-menu-item-4.icon-menu-icon>a::before{content:\'\\e965\' !important;font-family:icomoon !important;font-size:45px}.icons-menu-209 .icons-menu-item-5.icon-menu-icon>a::before{content:\'\\e966\' !important;font-family:icomoon !important}.icons-menu-209 .icons-menu-item-6.icon-menu-icon>a::before{content:\'\\eaf3\' !important;font-family:icomoon !important}.icons-menu-209 .icons-menu-item-7.icon-menu-icon>a::before{content:\'\\e973\' !important;font-family:icomoon !important}.icons-menu-209 .icons-menu-item-8.icon-menu-icon>a::before{content:\'\\eabb\' !important;font-family:icomoon !important}.icons-menu-209 .icons-menu-item-9.icon-menu-icon>a::before{content:\'\\e96d\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Icons Menus',
+    'tooltipStatus' => false,
+    'tooltipPosition' => 'top',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'icons-menu-5ecd321c940d8',
+    'module_id' => 209,
+    'classes' => 
+    array (
+      0 => 'icons-menu',
+      1 => 'icons-menu-209',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Bags',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '107',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Health & Beauty',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Footwear',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '111',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '175',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Food',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '155',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Baby & Kids',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '166',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      9 => 
+      array (
+        'title' => 'Appliances',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '205',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-9',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

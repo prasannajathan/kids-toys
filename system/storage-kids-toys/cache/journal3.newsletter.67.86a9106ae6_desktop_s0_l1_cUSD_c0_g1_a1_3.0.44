@@ -1,0 +1,56 @@
+<?php $val = array (
+  'css' => '.module-newsletter-67{text-align:left;justify-content:flex-start}.module-newsletter-67 .module-body>div{align-self:flex-start}.module-newsletter-67 .title::after{left:0;right:auto;transform:none}.module-newsletter-67 .module-body{flex-direction:column}.module-newsletter-67 .newsletter-text{color:rgba(105, 105, 115, 1);margin-bottom:10px}.module-newsletter-67 .module-body .input-group{height:40px}.module-newsletter-67 .module-body .newsletter-form .input-group
+input{width:300px;max-width:100%}.module-newsletter-67 .btn::before{content:\'\\eb79\' !important;font-family:icomoon !important;margin-right:5px}.module-newsletter-67 .input-group .input-group-btn .btn, .module-newsletter-67 .input-group .input-group-btn .btn:visited{font-size:12px;font-weight:400;text-transform:none}.module-newsletter-67 .input-group .input-group-btn
+.btn{padding:2px;padding-right:6px;padding-left:6px;min-width:20px;min-height:20px;min-height:30px;height:30px}.desktop .module-newsletter-67 .input-group .input-group-btn .btn:hover{box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.25)}.module-newsletter-67 .input-group .input-group-btn .btn:active, .module-newsletter-67 .input-group .input-group-btn .btn:hover:active, .module-newsletter-67 .input-group .input-group-btn .btn:focus:active{box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-newsletter-67 .input-group .input-group-btn .btn:focus{box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-newsletter-67 .input-group .input-group-btn .btn.btn.disabled::after{font-size:20px}.module-newsletter-67 .input-group-btn
+.btn{transform:translateX(-5px);margin-top:5px}.module-newsletter-67 .checkbox
+label{font-size:11px;color:rgba(139, 145, 152, 1)}.module-newsletter-67 .module-body .newsletter-form
+.checkbox{padding-top:10px}@media (max-width: 760px){.module-newsletter-67 .title.module-title::after{display:none}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Newsletter',
+    'text' => 'Stay up to date with news and promotions by signing up for our newsletter',
+    'placeholder' => 'Your email',
+    'buttonType' => 'both',
+    'buttonText' => 'Send',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'You have been subscribed to our newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Thank you for subscribing to our newsletter.',
+    'unsubscribeMessage' => 'You are already subscribed. Do you want to unsubscribe?',
+    'unsubscribedMessage' => 'You have been unsubscribed from our newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'We\'re sorry to see you go.',
+    'adminAlerts' => true,
+    'agree' => '3',
+    'captcha' => false,
+    'status' => true,
+    'id' => 'newsletter-5ecd3221170f6',
+    'module_id' => 67,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-67',
+    ),
+    'action' => 'http://localhost/kids-toys/index.php?route=journal3/newsletter/newsletter&amp;module_id=67',
+    'agree_data' => 
+    array (
+      'text' => 'I have read and agree to the <a href="http://localhost/kids-toys/index.php?route=information/information/agree&amp;information_id=3" class="agree"><b>Privacy Policy</b></a>',
+      'error' => 'Warning: You must agree to the Privacy Policy!',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

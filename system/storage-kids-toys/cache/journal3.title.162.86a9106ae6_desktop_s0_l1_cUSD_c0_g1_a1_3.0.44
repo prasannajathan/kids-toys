@@ -1,0 +1,45 @@
+<?php $val = array (
+  'css' => '.module-title-162{text-align:center}.module-title-162
+.subtitle{display:inline-block;font-size:16px;color:rgba(139, 145, 152, 1);max-width:980px}.module-title-162 .title-divider{display:block;max-width:50px;height:2px;background:rgba(233, 102, 49, 1);margin-top:15px;margin-bottom:15px;margin-left:auto;margin-right:auto;margin-left:auto;margin-right:auto}.module-title-162 .title-wrapper{text-align:center;text-align:center}.module-title-162
+h3{font-family:\'Montserrat\';font-weight:700;font-size:30px}.module-title-162 .title-wrapper::before{opacity:.05}@media (max-width: 760px){.module-title-162
+.subtitle{display:inline-block;font-size:14px}.module-title-162 .title-wrapper{text-align:left}.module-title-162 .title-divider{margin-left:0;margin-right:auto}.module-title-162
+h3{font-size:20px}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'type' => 'custom',
+    'title' => 'From our Blog',
+    'subtitle' => 'Journal comes with its own simple yet powerful blog. With the new advanced typography styles your post page design will be unmatched.',
+    'status' => true,
+    'id' => 'title-5ecd321138507',
+    'module_id' => 162,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-title',
+      2 => 'module-title-162',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

@@ -1,0 +1,17 @@
+<?php $val = array (
+  'css' => '.bottom-menu-266>ul>li>a{height:50px;min-width:50px;font-size:10px;color:rgba(139, 145, 152, 1)}.has-bottom-menu .site-wrapper{padding-bottom:50px}.has-bottom-menu .scroll-top{bottom:calc(50px+10px)}.bottom-menu>ul>li>a{flex-direction:column}.bottom-menu > ul > li .links-text{top:-2px;margin:0}.bottom-menu>ul>li>a::before{width:100%}.bottom-menu-266 li>a::before{font-size:20px}.bottom-menu-266>ul>li+li{border-style:solid;border-color:rgba(226,226,226,1)}.bottom-menu-266{border-style:solid;border-color:rgba(226, 226, 226, 1);background:rgba(241, 242, 245, 1);box-shadow:0 -10px 30px -5px rgba(0,0,0,0.15)}.bottom-menu-266>ul>li>a::before{color:rgba(105, 105, 115, 1)}.bottom-menu-266 > ul > li > a .count-badge{margin-top:-7px;display:inline-flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => false,
+    'id' => 'bottom-menu-5ecd3218a6c6d',
+    'module_id' => 266,
+    'classes' => 
+    array (
+      0 => 'bottom-menu',
+      1 => 'bottom-menu-266',
+    ),
+  ),
+);

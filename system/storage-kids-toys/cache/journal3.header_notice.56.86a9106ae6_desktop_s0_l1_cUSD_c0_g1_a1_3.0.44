@@ -1,0 +1,53 @@
+<?php $val = array (
+  'css' => '.module-header_notice-56 .hn-close::before{content:\'\\e5cd\' !important;font-family:icomoon !important;font-size:22px}.module-header_notice-56 .hn-close.btn, .module-header_notice-56 .hn-close.btn:visited{font-size:12px;color:rgba(105, 105, 115, 1);text-transform:none}.module-header_notice-56 .hn-close.btn:hover{color:rgba(233, 102, 49, 1) !important;background:none !important}.module-header_notice-56 .hn-close.btn:active, .module-header_notice-56 .hn-close.btn:hover:active, .module-header_notice-56 .hn-close.btn:focus:active{color:rgba(233, 102, 49, 1) !important;background:none !important;box-shadow:none}.module-header_notice-56 .hn-close.btn:focus{color:rgba(233, 102, 49, 1) !important;background:none;box-shadow:none}.module-header_notice-56 .hn-close.btn{background:none;border-style:none;padding:3px;box-shadow:none}.desktop .module-header_notice-56 .hn-close.btn:hover{box-shadow:none}.module-header_notice-56 .hn-close.btn.btn.disabled::after{font-size:20px}.module-header_notice-56 .hn-close{margin-left:5px}.module-header_notice-56 .module-body
+p{margin-bottom:7px}.module-header_notice-56 .module-body{height:auto;flex-direction:row;background:rgba(223, 231, 246, 1);padding:5px;padding-top:7px;padding-bottom:7px}.module-header_notice-56 .header-notice-close-button{position:relative;top:auto;right:auto;bottom:auto;left:auto;transform:none}.module-header_notice-56 .hn-content{line-height:1.4}.module-header_notice-56 .hn-content
+a{text-decoration:underline}.module-header_notice-56 .hn-body::before{content:\'\\eafa\' !important;font-family:icomoon !important;font-size:20px;color:rgba(233, 102, 49, 1);margin-right:5px;margin-left:5px;float:none}.module-header_notice-56 .hn-body{display:flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '9e4f882c',
+    'closeButton' => true,
+    'closeLink' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'closeText' => '',
+    'content' => 'This is the <b>Header Notice </b>module, use it for promotional or other important messages.',
+    'status' => true,
+    'id' => 'header_notice-5ecd32188ec14',
+    'module_id' => 56,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-header_notice',
+      2 => 'module-header_notice-56',
+    ),
+    'options' => 
+    array (
+      'cookie' => '9e4f882c',
+      'ease' => 'easeOutQuart',
+      'duration' => '700',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

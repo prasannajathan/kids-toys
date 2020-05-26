@@ -1,0 +1,116 @@
+<?php $val = array (
+  'css' => '.module-banners-98 .swiper-container{overflow:hidden}.module-banners-98 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-banners-98:hover .swiper-buttons{display:block}.module-banners-98 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-banners-98 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-banners-98 .swiper-buttons
+div{width:35px;height:35px;background:rgba(44, 54, 64, 1);border-width:4px;border-style:solid;border-color:rgba(255, 255, 255, 1);border-radius:50%}.module-banners-98 .swiper-button-disabled{opacity:0}.module-banners-98 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-banners-98 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-banners-98 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(221, 14, 28, 1)}.module-banners-98 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-banners-98
+.swiper{padding-bottom:15px}.module-banners-98 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-banners-98 .swiper-pagination>span+span{margin-left:8px}.desktop .module-banners-98 .swiper-pagination-bullet:hover{background-color:rgba(219, 232, 240, 1)}.module-banners-98 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(233, 102, 49, 1)}.module-banners-98 .swiper-pagination>span{border-radius:50px}.module-banners-98 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-banners-98 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-banners-98 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-banners-98 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-banners-98 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-banners-98 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-banners-98 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-banners-98 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-banners-98 a
+img{transform:scale(1)}.module-banners-98 .module-item>a::before{background:rgba(0, 0, 0, 0.3)}.module-banners-98 a::before{opacity:0}.desktop .module-banners-98 a:hover::before{opacity:1}.module-banners-98 .module-item>a::after{content:\'\\e5c8\' !important;font-family:icomoon !important}.module-banners-98 .banner-caption{visibility:hidden;opacity:0;display:block}.desktop .module-banners-98 a:hover .banner-caption{visibility:visible;opacity:1}.module-banners-98 .banner-caption
+span{font-weight:700;text-align:center;text-transform:uppercase;padding:20px}@media (max-width: 1024px){.module-banners-98 .swiper-buttons{display:none !important}}@media (max-width: 760px){.module-banners-98 .swiper-container{overflow:visible}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 220,
+      'height' => 280,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5ecd321d6ce80',
+    'module_id' => 98,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-98',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Shop Fashion',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=product/catalog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '98-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/catalog/journal3/banners/17-tall-220x280w.jpg',
+        'image2x' => 'http://localhost/kids-toys/image/cache/catalog/journal3/banners/17-tall-440x560w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

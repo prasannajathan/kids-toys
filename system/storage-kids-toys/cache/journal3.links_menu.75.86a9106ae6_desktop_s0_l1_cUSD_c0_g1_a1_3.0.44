@@ -1,0 +1,183 @@
+<?php $val = array (
+  'css' => '.links-menu-75 .module-body{display:block;justify-content:flex-start;align-items:flex-start;;-webkit-overflow-scrolling:touch;;column-count:initial;column-rule-style:solid}.links-menu-75 .menu-item{border-width:1px 0 0 0;justify-content:flex-start;;flex-grow:0;width:auto}.links-menu-75 .menu-item a .links-text{white-space:normal}.links-menu-75 .menu-item
+a{justify-content:flex-start}.links-menu-75 .count-badge{display:none}.phone footer .links-menu-75 .module-title::before{display:none}.phone footer .links-menu-75 .module-title+.module-body>li{display:flex}div.links-menu-75 .module-body{-webkit-overflow-scrolling:touch}@media (max-width: 760px){div.links-menu-75 .title.module-title::after{display:none}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Customer Service',
+    'status' => true,
+    'id' => 'links-menu-5ecd3220db772',
+    'module_id' => 75,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-75',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Contact',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/contact',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Returns',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=account/return/add',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Site Map',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/sitemap',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Brands',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=product/manufacturer',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Unlimited Links',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=product/manufacturer',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

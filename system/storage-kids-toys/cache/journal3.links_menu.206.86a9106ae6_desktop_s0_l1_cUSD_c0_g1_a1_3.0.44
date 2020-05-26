@@ -1,0 +1,338 @@
+<?php $val = array (
+  'css' => 'div.links-menu-206 .title.module-title{font-size:15px;border-width:0px;padding:0px;white-space:normal;overflow:visible;text-overflow:initial}div.links-menu-206 .title.module-title::after{display:none}div.links-menu-206 .title.module-title.page-title>span::after{display:none}div.links-menu-206 .module-body{display:block;justify-content:flex-start;;-webkit-overflow-scrolling:touch;;column-count:initial;column-gap:20px;column-rule-style:none}div.links-menu-206 .menu-item{border-width:1px 0 0 0;flex-grow:0;justify-content:flex-start;width:auto}div.links-menu-206 .menu-item a .links-text{white-space:normal;color:rgba(105, 105, 115, 1)}div.links-menu-206 .menu-item
+a{justify-content:flex-start;width:auto;padding-bottom:4px}div.links-menu-206 .menu-item a:hover .links-text{color:rgba(233, 102, 49, 1);text-decoration:underline}div.links-menu-206 .count-badge{display:none}.phone footer  div.links-menu-206 .module-title::before{display:block}.phone footer  div.links-menu-206 .module-title.closed+.module-body>li{display:none}.phone footer  div.links-menu-206 .module-title.closed{margin:0}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Top Categories',
+    'status' => true,
+    'id' => 'links-menu-5ecd321c3176f',
+    'module_id' => 206,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-206',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Bags',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '107',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Health & Beauty',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Footwear',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '111',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '175',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Food',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '155',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Baby & Kids',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '166',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      9 => 
+      array (
+        'title' => 'Flowers',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '196',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-9',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      10 => 
+      array (
+        'title' => 'Appliances',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '205',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-10',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

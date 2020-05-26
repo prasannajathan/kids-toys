@@ -1,0 +1,171 @@
+<?php $val = array (
+  'css' => '.module-blocks-212 .swiper-container{overflow:hidden}.module-blocks-212 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-blocks-212:hover .swiper-buttons{display:block}.module-blocks-212 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-blocks-212 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-blocks-212 .swiper-buttons
+div{width:35px;height:35px;background:rgba(44, 54, 64, 1);border-width:4px;border-style:solid;border-color:rgba(255, 255, 255, 1);border-radius:50%}.module-blocks-212 .swiper-button-disabled{opacity:0}.module-blocks-212 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-blocks-212 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-blocks-212 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(221, 14, 28, 1)}.module-blocks-212 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-blocks-212
+.swiper{padding-bottom:15px}.module-blocks-212 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-blocks-212 .swiper-pagination>span+span{margin-left:8px}.desktop .module-blocks-212 .swiper-pagination-bullet:hover{background-color:rgba(219, 232, 240, 1)}.module-blocks-212 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(233, 102, 49, 1)}.module-blocks-212 .swiper-pagination>span{border-radius:50px}.module-blocks-212.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-212.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-212.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-212.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-212.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-212.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-212.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-212.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-212 .title.block-title{font-family:\'Montserrat\';font-weight:600;font-size:17px;margin-bottom:15px;white-space:normal;overflow:visible;text-overflow:initial}.module-blocks-212 .title.block-title::after{content:\'\';display:block;position:relative;margin-top:10px}.module-blocks-212 .title.block-title.page-title>span::after{content:\'\';display:block;position:relative;margin-top:10px}.module-blocks-212 .title.block-title::after, .module-blocks-212 .title.block-title.page-title>span::after{width:50px;height:1px;background:rgba(233, 102, 49, 1)}.module-blocks-212 .nav-tabs > li > a, .module-blocks-212 .nav-tabs > li.active > a, .module-blocks-212 .nav-tabs > li.active > a:hover, .module-blocks-212 .nav-tabs>li.active>a:focus{font-family:\'Montserrat\';font-weight:600;font-size:14px;color:rgba(139, 145, 152, 1);text-transform:uppercase}.desktop .module-blocks-212 .nav-tabs > li:hover > a, .module-blocks-212 .nav-tabs>li.active>a{color:rgba(51, 51, 51, 1)}.module-blocks-212 .nav-tabs > li.active > a, .module-blocks-212 .nav-tabs > li.active > a:hover, .module-blocks-212 .nav-tabs>li.active>a:focus{color:rgba(51, 51, 51, 1)}.module-blocks-212 .nav-tabs>li{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(0, 0, 0, 0);flex-grow:0}.module-blocks-212 .nav-tabs>li.active{border-color:rgba(233, 102, 49, 1)}.module-blocks-212 .nav-tabs>li.active::after{display:none;border-top-width:10px}.module-blocks-212 .nav-tabs>li>a{justify-content:center;white-space:nowrap;padding:0px;padding-bottom:8px}.module-blocks-212 .nav-tabs>li>a::before{font-size:18px}.module-blocks-212 .nav-tabs{display:flex;justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;;min-width:50px}.module-blocks-212 .nav-tabs>li:not(:last-child){margin-right:20px}.module-blocks-212 .mobile .nav-tabs{overflow-x:scroll}.module-blocks-212 .nav-tabs::-webkit-scrollbar{-webkit-appearance:none;height:1px;height:1px;width:1px}.module-blocks-212 .nav-tabs::-webkit-scrollbar-track{background-color:white;background-color:rgba(238, 238, 238, 1)}.module-blocks-212 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999;background-color:rgba(139, 145, 152, 1)}.module-blocks-212 .tab-container::before{display:none}.module-blocks-212 .tab-content{padding-top:20px}.module-blocks-212 .tab-container{display:block}.module-blocks-212 .tab-container .nav-tabs{flex-direction:row}.module-blocks-212 .block-title{order:-2}.module-blocks-212 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-212 .block-header
+img{display:flex}.module-blocks-212 .block-wrapper{display:flex}.module-blocks-212 .block-header
+i{float:none;display:flex}.module-blocks-212 .block-body{display:flex;flex-direction:column}@media (max-width: 1024px){.module-blocks-212 .swiper-buttons{display:none !important}}@media (max-width: 760px){.module-blocks-212 .swiper-container{overflow:visible}}.module-blocks-212 .module-item-1 .module-title{font-size:15px}.module-blocks-212 .module-item-1 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start;margin-bottom:10px}.module-blocks-212 .module-item-1 .block-header
+img{display:flex}.module-blocks-212 .module-item-1 .block-wrapper{display:flex}.module-blocks-212 .module-item-1 .block-header
+i{float:none;display:flex}.module-blocks-212 .module-item-1 .block-body{display:flex;flex-direction:column}.module-blocks-212 .module-item-1 .block-content{text-align:left;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-212 .module-item-1 .expand-content{max-height:100%;overflow:visible}.module-blocks-212 .module-item-1 .block-footer{margin-top:auto;padding-top:10px;margin-top:10px;border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);text-align:left}.module-blocks-212 .module-item-1 .block-footer
+.btn{width:auto;transform:scale(calc(80 / 100));transform-origin:top left}.module-blocks-212 .module-item-1 .block-footer .btn::after{content:\'\\e5c8\' !important;font-family:icomoon !important;margin-left:5px}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        600 => '600',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 120,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-5ecd321c0b791',
+    'module_id' => 212,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-212',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'image',
+        'text' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'button',
+        'footerText' => '',
+        'footerButton' => 'Shop Now',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '212-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/catalog/journal3/banners/ban4-200x120w.jpg',
+        'image2x' => 'http://localhost/kids-toys/image/cache/catalog/journal3/banners/ban4-400x240w.jpg',
+        'title' => 'CMS Blocks',
+        'content' => '<p>The mega menus use the page builder interface and this means you can add any layout module in your menus to build the desired layout in any rows and columns combination.</p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

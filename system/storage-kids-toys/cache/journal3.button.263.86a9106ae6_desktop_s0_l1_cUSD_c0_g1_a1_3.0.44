@@ -1,0 +1,43 @@
+<?php $val = array (
+  'css' => '.module-button-263
+.btn{transform:scale(calc(100 / 100));transform-origin:center;width:auto;background:rgba(13,82,214,1)}.module-button-263{display:flex;justify-content:center}.module-button-263 .btn:hover{background:rgba(15, 58, 141, 1) !important}.module-button-263 .btn.btn.disabled::after{font-size:20px}.module-button-263 .btn::after{content:\'\\e9b1\' !important;font-family:icomoon !important;margin-left:7px}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'See all products',
+    'link' => 
+    array (
+      'type' => 'page',
+      'id' => '',
+      'href' => 'http://localhost/kids-toys/index.php?route=product/catalog',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'status' => true,
+    'id' => 'button-5ecd3204884a3',
+    'module_id' => 263,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-button',
+      2 => 'module-button-263',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

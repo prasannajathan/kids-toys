@@ -1,0 +1,765 @@
+<?php $val = array (
+  'settings' => 
+  array (
+    'column_left' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'column_right' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'top' => 
+    array (
+      'rows' => 
+      array (
+        1 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-1',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-1-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-1-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '26',
+                    'name' => 'Slider Top Home',
+                    'type' => 'master_slider',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-1-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-1-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '259',
+                    'name' => 'Banners Top Home Copy',
+                    'type' => 'banners',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-2',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-2-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-2-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '86',
+                    'name' => 'Info Blocks Home',
+                    'type' => 'info_blocks',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-3',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-3-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-3-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '147',
+                    'name' => 'Category Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-3-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-3-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '37',
+                    'name' => 'Category Grid',
+                    'type' => 'categories',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-top-4',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-4-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-4-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '145',
+                    'name' => 'Shop by Category',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-4-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-4-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '27',
+                    'name' => 'New Products',
+                    'type' => 'products',
+                  ),
+                ),
+              ),
+            ),
+            3 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-top-4-3',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-top-4-3-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '263',
+                    'name' => 'See all products',
+                    'type' => 'button',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'bottom' => 
+    array (
+      'rows' => 
+      array (
+        1 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-1',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-1-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-1-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '163',
+                    'name' => 'Fashion Category Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-1-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-1-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '166',
+                    'name' => 'Catalog Single Category',
+                    'type' => 'catalog',
+                  ),
+                ),
+              ),
+            ),
+            3 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-1-3',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-1-3-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '169',
+                    'name' => 'Latest from Fashion',
+                    'type' => 'products',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        2 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-2',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-2-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-2-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '143',
+                    'name' => 'Page Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-2-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-2-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '38',
+                    'name' => 'Brands Module',
+                    'type' => 'manufacturers',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        3 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-3',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-3-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-3-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '171',
+                    'name' => 'Improved Gallery Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-3-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-3-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '45',
+                    'name' => 'Gallery Layout',
+                    'type' => 'gallery',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        4 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-4',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-4-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-4-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '162',
+                    'name' => 'Catalog Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-4-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-4-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '40',
+                    'name' => 'New Blog Posts',
+                    'type' => 'blog_posts',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        5 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-bottom-5',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-5-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-5-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '281',
+                    'name' => 'Testimonials Title',
+                    'type' => 'title',
+                  ),
+                ),
+              ),
+            ),
+            2 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-bottom-5-2',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-bottom-5-2-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '256',
+                    'name' => 'Testimonials',
+                    'type' => 'testimonials',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'header_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'global' => 
+    array (
+      0 => 
+      array (
+        'module_id' => '110',
+        'module_type' => 'popup',
+      ),
+      1 => 
+      array (
+        'module_id' => '137',
+        'module_type' => 'notification',
+      ),
+      2 => 
+      array (
+        'module_id' => '56',
+        'module_type' => 'header_notice',
+      ),
+      3 => 
+      array (
+        'module_id' => '266',
+        'module_type' => 'bottom_menu',
+      ),
+    ),
+  ),
+  'php' => 
+  array (
+  ),
+  'js' => 
+  array (
+  ),
+  'fonts' => 
+  array (
+  ),
+  'css' => '.grid-row-top-1{background:rgba(255,255,255,1);padding:20px}.grid-row-top-1::before{display:block;left:0;width:100vw}.grid-row-top-1 .wave-top{display:block}.grid-row-top-1 .wave-bottom{display:block}.grid-col-top-1-1{width:75%;padding-right:20px}.grid-col-top-1-1 .grid-items{justify-content:flex-start}@media (max-width: 760px){.grid-col-top-1-1{width:100%;padding-right:0px;padding-bottom:20px}}.grid-item-top-1-1-1{width:100%}.grid-col-top-1-2{width:25%}.grid-col-top-1-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.grid-col-top-1-2{width:100%}}.grid-item-top-1-2-1{width:100%}.grid-row-top-2{background:rgba(58,71,84,1)}.grid-row-top-2::before{display:block;left:0;width:100vw}.grid-row-top-2 .wave-top{display:block}.grid-row-top-2 .wave-bottom{display:block}.grid-col-top-2-1{width:100%}.grid-col-top-2-1 .grid-items{justify-content:flex-start}.grid-item-top-2-1-1{width:100%}.grid-row-top-3{background:rgba(255,255,255,1);padding:20px;padding-top:30px;padding-bottom:40px}.grid-row-top-3::before{display:block;left:0;width:100vw}.grid-row-top-3 .wave-top{display:block}.grid-row-top-3 .wave-bottom{display:block}.grid-col-top-3-1{width:100%;margin-top:20px;margin-bottom:50px}.grid-item-top-3-1-1{width:100%}.grid-col-top-3-2{width:100%}.grid-col-top-3-2 .grid-items{justify-content:flex-start}.grid-item-top-3-2-1{width:100%}.grid-row-top-4::before{display:block;background:rgba(255,255,255,1);left:0;width:100vw}.grid-row-top-4{padding:20px;padding-top:40px;padding-bottom:40px}.grid-row-top-4 .wave-top{display:block}.grid-row-top-4 .wave-bottom{display:block}.grid-col-top-4-1{width:100%;margin-bottom:50px}.grid-col-top-4-1 .grid-items{justify-content:flex-start}.grid-item-top-4-1-1{width:100%}.grid-col-top-4-2{width:100%}.grid-col-top-4-2 .grid-items{justify-content:flex-start}.grid-item-top-4-2-1{width:100%}.grid-col-top-4-3{width:100%;margin-top:30px}.grid-col-top-4-3 .grid-items{justify-content:flex-start}.grid-item-top-4-3-1{width:100%}.grid-row-bottom-1{background:rgba(241,242,245,1);padding:15px;padding-top:50px;padding-bottom:60px}.grid-row-bottom-1::before{display:block;left:0;width:100vw}.grid-row-bottom-1 .wave-top{display:block}.grid-row-bottom-1 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-bottom-1{padding:0px}}.grid-col-bottom-1-1{width:100%;margin-bottom:60px}.grid-col-bottom-1-1 .grid-items{justify-content:flex-start}@media (max-width: 1300px){.grid-col-bottom-1-1{padding:20px}}@media (max-width: 760px){.grid-col-bottom-1-1{margin-bottom:0px}}.grid-item-bottom-1-1-1{width:100%}.grid-col-bottom-1-2{width:20%;background:rgba(215, 218, 222, 1);padding:20px;margin-bottom:20px}.grid-col-bottom-1-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.grid-col-bottom-1-2{width:100%;margin-bottom:0px}}.grid-item-bottom-1-2-1{width:100%}.grid-col-bottom-1-3{width:80%;background:rgba(255, 255, 255, 1);padding:20px;padding-bottom:0px;margin-bottom:20px}.grid-col-bottom-1-3 .grid-items{justify-content:flex-start}@media (max-width: 760px){.grid-col-bottom-1-3{width:100%;margin-bottom:0px}}.grid-item-bottom-1-3-1{width:100%}.grid-row-bottom-2{background:rgba(255,255,255,1);padding:20px;padding-top:50px;padding-bottom:50px}.grid-row-bottom-2::before{display:block;left:0;width:100vw}.grid-row-bottom-2 .wave-top{display:block}.grid-row-bottom-2 .wave-bottom{display:block}.grid-col-bottom-2-1{width:100%}.grid-col-bottom-2-1 .grid-items{justify-content:flex-start}.grid-item-bottom-2-1-1{width:100%}.grid-col-bottom-2-2{width:100%}.grid-col-bottom-2-2 .grid-items{justify-content:flex-start}.grid-item-bottom-2-2-1{width:100%}.grid-row-bottom-3{background:rgba(58,71,84,1);padding:20px;padding-top:50px;padding-bottom:60px}.grid-row-bottom-3::before{display:block;left:0;width:100vw}.grid-row-bottom-3 .wave-top{display:block}.grid-row-bottom-3 .wave-bottom{display:block}.grid-col-bottom-3-1{width:100%;margin-bottom:40px}.grid-col-bottom-3-1 .grid-items{justify-content:flex-start}.grid-item-bottom-3-1-1{width:100%}.grid-col-bottom-3-2{width:100%}.grid-col-bottom-3-2 .grid-items{justify-content:flex-start}.grid-item-bottom-3-2-1{width:100%}.grid-row-bottom-4::before{display:block;left:0;width:100vw}.grid-row-bottom-4{padding:20px;padding-top:40px;padding-bottom:40px}.grid-row-bottom-4 .wave-top{display:block}.grid-row-bottom-4 .wave-bottom{display:block}@media (max-width: 760px){.grid-row-bottom-4{padding:20px}}.grid-col-bottom-4-1{width:100%;margin-bottom:40px}.grid-col-bottom-4-1 .grid-items{justify-content:flex-start}@media (max-width: 760px){.grid-col-bottom-4-1{margin-bottom:15px}}.grid-item-bottom-4-1-1{width:100%}.grid-col-bottom-4-2{width:100%}.grid-col-bottom-4-2 .grid-items{justify-content:flex-start}.grid-item-bottom-4-2-1{width:100%}.grid-row-bottom-5{background:rgba(255,255,255,1);padding:20px;padding-top:30px;padding-bottom:30px}.grid-row-bottom-5::before{display:block;left:0;width:100vw}.grid-row-bottom-5 .wave-top{display:block}.grid-row-bottom-5 .wave-bottom{display:block}.grid-col-bottom-5-1{width:100%;padding-top:20px}.grid-col-bottom-5-1 .grid-items{justify-content:flex-start}.grid-item-bottom-5-1-1{width:100%}.grid-col-bottom-5-2{width:100%}.grid-col-bottom-5-2 .grid-items{justify-content:flex-start}.grid-item-bottom-5-2-1{width:100%}',
+);

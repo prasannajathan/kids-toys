@@ -1,0 +1,107 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-64 > .j-menu .menu-item.main-menu-item-1>a::before{content:\'\\eb97\' !important;font-family:icomoon !important;font-size:20px}div.main-menu.main-menu-64 > .j-menu li.main-menu-item-1>a{font-size:15px !important}div.main-menu.main-menu-64>.j-menu>.main-menu-item-1>a{padding-right:20px !important}.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-64 > .j-menu .menu-item.main-menu-item-2>a::before{content:\'\\e946\' !important;font-family:icomoon !important;margin-right:7px}div.main-menu.main-menu-64 > .j-menu li.main-menu-item-2>a{color:rgba(51, 51, 51, 1) !important;background:rgba(254, 212, 48, 1)}.desktop div.main-menu.main-menu-64 > .j-menu li.main-menu-item-2:hover>a{background:rgba(255,255,255,1)}div.main-menu.main-menu-64>.j-menu>.main-menu-item-2>a{padding:15px
+!important}.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-2 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-64 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-2:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-64 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu-2',
+    'module_id' => 64,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-64',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '1.800.555.6789',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => 'tel:18005556787',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      2 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '',
+          'href' => 'http://localhost/kids-toys/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

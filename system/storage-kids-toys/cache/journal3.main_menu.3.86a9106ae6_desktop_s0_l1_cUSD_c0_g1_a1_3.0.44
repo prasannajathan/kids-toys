@@ -1,0 +1,306 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-1>a::before{content:\'\\e8d2\' !important;font-family:icomoon !important;font-size:20px;top:-1px;margin-right:5px}div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1>a{color:rgba(51, 51, 51, 1) !important;background:rgba(254, 212, 48, 1)}.desktop div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1:hover>a{background:rgba(241,242,245,1)}div.main-menu.main-menu-3>.j-menu>.main-menu-item-1>a{padding-left:16px !important;min-width:230px}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:none;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{color:rgba(255, 255, 255, 1);font-weight:400;text-transform:none;background:rgba(233, 102, 49, 1);padding:1px;padding-right:5px;padding-left:5px}.desktop-main-menu-wrapper .main-menu-3 .main-menu-item-1>a>.menu-label{margin-right:calc(0px - (-7px));margin-top:-7px}@media (max-width: 1024px){div.main-menu.main-menu-3 > .j-menu li.main-menu-item-1>a{background:none}div.main-menu.main-menu-3>.j-menu>.main-menu-item-1>a{padding-left:0px !important}}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2:not(.mega-fullwidth)>.dropdown-menu::before{display:none;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-3>a>.menu-label{color:rgba(51, 51, 51, 1);background:rgba(254, 212, 48, 1);padding:1px;padding-right:5px;padding-left:5px}.desktop-main-menu-wrapper .main-menu-3 .main-menu-item-3>a>.menu-label{margin-right:calc(0px - (-7px));margin-top:-7px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1{padding:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}@media (max-width: 1024px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1{padding:0px}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:80%;padding:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:100%;padding:0px;padding-bottom:20px}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:20%;border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);padding:20px;padding-right:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:100%;border-style:none;padding:0px}}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1{padding:10px}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}@media (max-width: 1024px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1{padding:0px}}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:66.66666666666666%;padding:20px;padding-left:0px}@media (max-width: 1024px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-1{width:100%;padding:0px;padding-bottom:20px}}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:33.33333333333333%;padding:20px}.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-4.mega-menu .grid-row-1 .grid-col-2{width:100%;padding:0px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'All Departments',
+        'label' => 'Sale',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'flyout',
+        'mobileOpen' => true,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'flyout',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+          'drop-menu' => true,
+        ),
+        'items' => '7',
+        'isOpen' => true,
+      ),
+      2 => 
+      array (
+        'title' => 'Multilevel',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Mega Menu',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '210',
+                      'name' => 'Fashion',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '98',
+                      'name' => 'Promo Banner',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Fullwidth',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '264',
+                      'name' => 'Catalog Categories Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '186',
+                      'name' => 'Top Sellers',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

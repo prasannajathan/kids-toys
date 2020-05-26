@@ -1,0 +1,36 @@
+<?php $val = array (
+  'data' => 
+  array (
+    58 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'bottom',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '#content .product-blocks-58{margin-top:10px;margin-bottom:30px}',
+    ),
+  ),
+  'all' => 
+  array (
+    58 => 58,
+  ),
+  'special' => 
+  array (
+  ),
+  'outofstock' => 
+  array (
+  ),
+  'custom' => 
+  array (
+  ),
+);

@@ -1,0 +1,176 @@
+<?php $val = array (
+  'css' => '.module-banners-259 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.module-banners-259 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-banners-259 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-banners-259 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-banners-259 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-banners-259 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-banners-259 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-banners-259 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-banners-259:not(.carousel-mode) .module-body{margin:-10px}.module-banners-259 a
+img{transform:scale(1)}.module-banners-259 .module-item>a{background:rgba(241, 242, 245, 1);border-radius:10px}.module-banners-259 .module-item>a::before{background:rgba(15, 58, 141, 0.15)}.module-banners-259 a::before{opacity:0}.desktop .module-banners-259 a:hover::before{opacity:1}.module-banners-259 a::after{opacity:1;margin:10px;margin-top:5px}.module-banners-259 .module-item>a::after{top:0;left:0;right:auto;bottom:auto;transform:translate3d(0, 0, 0)}.module-banners-259 a .banner-caption{visibility:visible;opacity:1;display:block;width:auto}.module-banners-259 .banner-caption{top:50%;left:0;right:auto;bottom:auto;transform:translate3d(0, -50%, 0)}.module-banners-259 .banner-caption
+span{transform:scale(calc(100 / 100));transform-origin:left center;max-width:38%;white-space:normal;;font-family:\'Montserrat\';font-weight:600;font-size:18px;color:rgba(51, 51, 51, 1);margin-left:25px}.module-banners-259 .banner-caption span
+s{display:block;color:rgba(13, 82, 214, 1);text-transform:uppercase;margin-bottom:5px}.module-banners-259 a .banner-caption-2{visibility:visible;opacity:1;display:block;width:auto}.module-banners-259 .banner-caption-2{top:auto;left:0;right:auto;bottom:0;transform:translate3d(0, 0, 0)}.module-banners-259 .banner-caption-2
+span{transform:scale(calc(100 / 100));transform-origin:bottom left;white-space:normal}.module-banners-259 .banner-caption-3
+span{white-space:normal}@media (max-width: 1024px){.module-banners-259 .banner-caption
+span{max-width:50%}.module-banners-259 .banner-caption span
+s{margin-bottom:3px}}@media (max-width: 980px){.module-banners-259 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.module-banners-259 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-banners-259 .banner-caption
+span{font-size:11px;margin-left:10px}}@media (max-width: 760px){.module-banners-259 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.module-banners-259 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}}@media (max-width: 359px){.module-banners-259 .banner-caption
+span{font-size:10px}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        600 => '600',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+        980 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 320,
+      'height' => 210,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5ecd31fc45054',
+    'module_id' => 259,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-259',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '<s>Wearables</s> Intelligent & Durable Design',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '259-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/catalog/journal3/slider/demo1/b1-320x210w.png',
+        'image2x' => 'http://localhost/kids-toys/image/cache/catalog/journal3/slider/demo1/b1-640x420w.png',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => '<s>Computers</s> Build your own high powered PC',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '26',
+          'href' => 'http://localhost/kids-toys/index.php?route=product/category&amp;path=26',
+          'name' => 'PC',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '259-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/catalog/journal3/slider/demo1/b2-320x210w.png',
+        'image2x' => 'http://localhost/kids-toys/image/cache/catalog/journal3/slider/demo1/b2-640x420w.png',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

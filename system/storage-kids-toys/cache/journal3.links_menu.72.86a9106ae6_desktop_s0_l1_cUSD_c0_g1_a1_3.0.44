@@ -1,0 +1,183 @@
+<?php $val = array (
+  'css' => '.links-menu-72 .module-body{display:block;justify-content:flex-start;align-items:flex-start;;-webkit-overflow-scrolling:touch;;column-count:initial;column-rule-style:solid}.links-menu-72 .menu-item{border-width:1px 0 0 0;justify-content:flex-start;;flex-grow:0;width:auto}.links-menu-72 .menu-item a .links-text{white-space:normal}.links-menu-72 .menu-item
+a{justify-content:flex-start}.links-menu-72 .count-badge{display:none}.phone footer .links-menu-72 .module-title::before{display:none}.phone footer .links-menu-72 .module-title+.module-body>li{display:flex}div.links-menu-72 .module-body{-webkit-overflow-scrolling:touch}@media (max-width: 760px){div.links-menu-72 .title.module-title::after{display:none}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'About Us',
+    'status' => true,
+    'id' => 'links-menu-5ecd3220ab429',
+    'module_id' => 72,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-72',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'About Us',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '4',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/information&amp;information_id=4',
+          'name' => 'About Us',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Delivery',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '6',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/information&amp;information_id=6',
+          'name' => 'Delivery Information',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Privacy Policy',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '3',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/information&amp;information_id=3',
+          'name' => 'Privacy Policy',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Terms & Conditions',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '5',
+          'href' => 'http://localhost/kids-toys/index.php?route=information/information&amp;information_id=5',
+          'name' => 'Terms &amp; Conditions',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Custom Links',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '5',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

@@ -1,0 +1,46 @@
+<?php $val = array (
+  'css' => '.module-title-281{text-align:center}.module-title-281
+.subtitle{display:inline-block;font-size:16px;color:rgba(139, 145, 152, 1);max-width:980px}.module-title-281 .title-divider{display:block;max-width:50px;height:2px;background:rgba(233, 102, 49, 1);margin-top:15px;margin-bottom:15px;margin-left:auto;margin-right:auto;margin-left:auto;margin-right:auto}.module-title-281 .title-wrapper{text-align:center;text-align:center}.module-title-281
+h3{font-family:\'Montserrat\';font-weight:700;font-size:30px}.module-title-281 .title-wrapper
+h3{text-align:center}.module-title-281 .title-wrapper::before{opacity:.05;display:block}@media (max-width: 760px){.module-title-281
+.subtitle{display:inline-block;font-size:14px}.module-title-281 .title-wrapper{text-align:left}.module-title-281 .title-divider{margin-left:0;margin-right:auto}.module-title-281
+h3{font-size:20px}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'type' => 'custom',
+    'title' => 'What are people saying about us',
+    'subtitle' => '',
+    'status' => true,
+    'id' => 'title-5ecd321721b15',
+    'module_id' => 281,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-title',
+      2 => 'module-title-281',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

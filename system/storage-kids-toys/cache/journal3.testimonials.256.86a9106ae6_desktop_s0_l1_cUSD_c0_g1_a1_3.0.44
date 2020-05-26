@@ -1,0 +1,383 @@
+<?php $val = array (
+  'css' => '.module-testimonials-256 .swiper-container{overflow:hidden;padding:25px}.module-testimonials-256 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-testimonials-256:hover .swiper-buttons{display:block}.module-testimonials-256 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-testimonials-256 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-testimonials-256 .swiper-buttons
+div{width:35px;height:35px;background:rgba(44, 54, 64, 1);border-width:4px;border-style:solid;border-color:rgba(255, 255, 255, 1);border-radius:50%}.module-testimonials-256 .swiper-button-disabled{opacity:0}.module-testimonials-256 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-testimonials-256 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-testimonials-256 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(221, 14, 28, 1)}.module-testimonials-256 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-testimonials-256
+.swiper{padding-bottom:15px}.module-testimonials-256 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-testimonials-256 .swiper-pagination>span+span{margin-left:8px}.desktop .module-testimonials-256 .swiper-pagination-bullet:hover{background-color:rgba(219, 232, 240, 1)}.module-testimonials-256 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(233, 102, 49, 1)}.module-testimonials-256 .swiper-pagination>span{border-radius:50px}.module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.two-column #content .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.two-column #content .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}.side-column .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:10px;width:calc((100% - 0 * 10px) / 1 - 0.01px)}.side-column .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 1 - 0.01px)}.module-testimonials-256 .title.module-title{font-family:\'Montserrat\';font-weight:600;font-size:17px;margin-bottom:15px;white-space:normal;overflow:visible;text-overflow:initial}.module-testimonials-256 .title.module-title::after{content:\'\';display:block;position:relative;margin-top:10px}.module-testimonials-256 .title.module-title.page-title>span::after{content:\'\';display:block;position:relative;margin-top:10px}.module-testimonials-256 .title.module-title::after, .module-testimonials-256 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(233, 102, 49, 1)}.module-testimonials-256 .block-body{font-size:16px;text-align:center;background:rgba(255, 255, 255, 1);padding:20px;border-radius:7px;font-size:14px}.module-testimonials-256 .block-body:hover{box-shadow:0 10px 30px rgba(0, 0, 0, 0.1)}.module-testimonials-256 .nav-tabs > li > a, .module-testimonials-256 .nav-tabs > li.active > a, .module-testimonials-256 .nav-tabs > li.active > a:hover, .module-testimonials-256 .nav-tabs>li.active>a:focus{font-family:\'Montserrat\';font-weight:600;font-size:14px;color:rgba(139, 145, 152, 1);text-transform:uppercase}.desktop .module-testimonials-256 .nav-tabs > li:hover > a, .module-testimonials-256 .nav-tabs>li.active>a{color:rgba(51, 51, 51, 1)}.module-testimonials-256 .nav-tabs > li.active > a, .module-testimonials-256 .nav-tabs > li.active > a:hover, .module-testimonials-256 .nav-tabs>li.active>a:focus{color:rgba(51, 51, 51, 1)}.module-testimonials-256 .nav-tabs>li{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(0, 0, 0, 0);flex-grow:0}.module-testimonials-256 .nav-tabs>li.active{border-color:rgba(233, 102, 49, 1)}.module-testimonials-256 .nav-tabs>li.active::after{display:none;border-top-width:10px}.module-testimonials-256 .nav-tabs>li>a{justify-content:center;white-space:nowrap;padding:0px;padding-bottom:8px}.module-testimonials-256 .nav-tabs>li>a::before{font-size:18px}.module-testimonials-256 .nav-tabs{display:flex;justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;;min-width:50px}.module-testimonials-256 .nav-tabs>li:not(:last-child){margin-right:20px}.module-testimonials-256 .mobile .nav-tabs{overflow-x:scroll}.module-testimonials-256 .nav-tabs::-webkit-scrollbar{-webkit-appearance:none;height:1px;height:1px;width:1px}.module-testimonials-256 .nav-tabs::-webkit-scrollbar-track{background-color:white;background-color:rgba(238, 238, 238, 1)}.module-testimonials-256 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999;background-color:rgba(139, 145, 152, 1)}.module-testimonials-256 .tab-container::before{display:none}.module-testimonials-256 .tab-content{padding-top:20px}.module-testimonials-256 .tab-container{display:block}.module-testimonials-256 .tab-container .nav-tabs{flex-direction:row}.module-testimonials-256 .block-header{text-align:center}.module-testimonials-256 .block-header i::before{content:\'\\e90b\' !important;font-family:icomoon !important;font-size:60px;color:rgba(233, 102, 49, 1)}.module-testimonials-256 .block-header
+i{margin-bottom:10px}.module-testimonials-256 .block-footer{font-family:\'Montserrat\';font-weight:600;font-size:15px;color:rgba(105, 105, 115, 1);font-style:normal}@media (max-width: 1024px){.module-testimonials-256 .swiper-buttons{display:none !important}.module-testimonials-256 .swiper-container{padding:0px}}@media (max-width: 760px){.module-testimonials-256 .swiper-container{overflow:visible}.module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}}@media (max-width: 470px){.module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.one-column #content .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-testimonials-256.blocks-grid .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.two-column #content .module-testimonials-256.blocks-grid .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}}.module-testimonials-256 .module-item-1 .block-header{text-align:center}.module-testimonials-256 .module-item-1 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-256 .module-item-1 .block-expand::after{content:\'Show More\'}.module-testimonials-256 .module-item-1 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-256 .module-item-1 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-1 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-1 .block-footer
+.btn{width:auto}.module-testimonials-256 .module-item-1 .block-footer{text-align:center}.module-testimonials-256 .module-item-2 .block-header{text-align:center}.module-testimonials-256 .module-item-2 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-256 .module-item-2 .block-expand::after{content:\'Show More\'}.module-testimonials-256 .module-item-2 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-256 .module-item-2 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-2 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-2 .block-footer
+.btn{width:auto}.module-testimonials-256 .module-item-2 .block-footer{text-align:center}.module-testimonials-256 .module-item-3 .block-header{text-align:center}.module-testimonials-256 .module-item-3 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-256 .module-item-3 .block-expand::after{content:\'Show More\'}.module-testimonials-256 .module-item-3 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-256 .module-item-3 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-3 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-3 .block-footer
+.btn{width:auto}.module-testimonials-256 .module-item-3 .block-footer{text-align:center}.module-testimonials-256 .module-item-4 .block-header{text-align:center}.module-testimonials-256 .module-item-4 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-256 .module-item-4 .block-expand::after{content:\'Show More\'}.module-testimonials-256 .module-item-4 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-256 .module-item-4 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-4 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-4 .block-footer
+.btn{width:auto}.module-testimonials-256 .module-item-4 .block-footer{text-align:center}.module-testimonials-256 .module-item-5 .block-header{text-align:center}.module-testimonials-256 .module-item-5 .block-content{max-height:100% !important;overflow:visible !important;max-height:75px;overflow:hidden}.module-testimonials-256 .module-item-5 .block-expand::after{content:\'Show More\'}.module-testimonials-256 .module-item-5 .block-expanded + .block-expand-overlay .block-expand::after{content:\'Show Less\'}.module-testimonials-256 .module-item-5 .block-expand::before{content:\'\\f078\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-5 .block-expanded + .block-expand-overlay .block-expand::before{content:\'\\f077\' !important;font-family:icomoon !important}.module-testimonials-256 .module-item-5 .block-footer
+.btn{width:auto}.module-testimonials-256 .module-item-5 .block-footer{text-align:center}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        600 => '600',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => true,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+        470 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+        470 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+        470 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 10,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'testimonials-5ecd3217486f7',
+    'module_id' => 256,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-testimonials',
+      2 => 'module-testimonials-256',
+      3 => 'blocks-grid',
+      'carousel-mode' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- charlibaltimore',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '256-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/placeholder-1000x1000.png',
+        'title' => NULL,
+        'content' => 'I\'ve purchased hundreds and hundreds of files over the past 7 years. But there is nothing close to this support and professionalism. Not only is theme, simple , useful and modern, but again the support is remarkable.  Very happy I got this theme! Thank you!',
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- chromebandit',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '256-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/placeholder-1000x1000.png',
+        'title' => NULL,
+        'content' => 'I am a web developer for many years i haven\'t seen anything clear clean coded like journal it makes my live so much easier thanks for the great work you have done.',
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- kellyhorne',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '256-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-3',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/placeholder-1000x1000.png',
+        'title' => NULL,
+        'content' => 'Great toolkit for Opencart. As a base platform, Opencart can be a nightmare to modify and get looking good. Journal takes away all the pain.',
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- TBNWorld',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '256-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-4',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/placeholder-1000x1000.png',
+        'title' => NULL,
+        'content' => 'This theme is just amazing. With the new version J3 everything has become much easier to adjust. It\'s indeed, as the author says, not possible to mention all the possibilities, because it\'s just to much. Great value for the price!',
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'header' => 'icon',
+        'contentType' => 'text',
+        'expandButton' => false,
+        'footer' => 'text',
+        'footerText' => '- sacredcirclegifts',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '256-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => true,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-5',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'http://localhost/kids-toys/image/cache/placeholder-1000x1000.png',
+        'title' => NULL,
+        'content' => 'Amazing ways to customize so you don\'t end up with a site looking like everyone else\'s :) Unique sites are much better than clone sites, as they keep the customers interest and the bounce rate is a lot lower. Great Job A++++++',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

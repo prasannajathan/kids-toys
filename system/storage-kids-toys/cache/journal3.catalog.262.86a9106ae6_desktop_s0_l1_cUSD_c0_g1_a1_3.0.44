@@ -1,0 +1,152 @@
+<?php $val = array (
+  'css' => '.module-catalog-262 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-catalog-262 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-catalog-262 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-catalog-262 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-catalog-262 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-catalog-262 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-catalog-262 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-catalog-262 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-catalog-262 .swiper-container{overflow:hidden}.module-catalog-262 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-catalog-262:hover .swiper-buttons{display:block}.module-catalog-262 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-catalog-262 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-catalog-262 .swiper-buttons
+div{width:35px;height:35px;background:rgba(44, 54, 64, 1);border-width:4px;border-style:solid;border-color:rgba(255, 255, 255, 1);border-radius:50%}.module-catalog-262 .swiper-button-disabled{opacity:0}.module-catalog-262 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-262 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-catalog-262 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(221, 14, 28, 1)}.module-catalog-262 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-catalog-262
+.swiper{padding-bottom:15px}.module-catalog-262 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-catalog-262 .swiper-pagination>span+span{margin-left:8px}.desktop .module-catalog-262 .swiper-pagination-bullet:hover{background-color:rgba(219, 232, 240, 1)}.module-catalog-262 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(233, 102, 49, 1)}.module-catalog-262 .swiper-pagination>span{border-radius:50px}.module-catalog-262 .catalog-title{margin-bottom:8px;display:flex;font-family:\'Montserrat\';font-weight:700;font-size:13px;color:rgba(51, 51, 51, 1);text-transform:uppercase;width:auto;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-262
+.subitems{align-items:flex-start}.module-catalog-262 .subitem > a
+span{font-size:13px;color:rgba(105, 105, 115, 1)}.module-catalog-262 .subitem > a:hover
+span{color:rgba(13, 82, 214, 1);text-decoration:underline}.module-catalog-262 .subitem.view-more a
+span{font-size:12px;color:rgba(105, 105, 115, 1);font-weight:700;text-decoration:underline}.module-catalog-262 .subitem.view-more a:hover
+span{color:rgba(15, 58, 141, 1)}.module-catalog-262 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:7px}.module-catalog-262 .catalog-image
+img{border-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1);border-radius:3px}.module-catalog-262 .catalog-image{margin-right:10px}.module-catalog-262 .item-assets{flex-direction:row}.module-catalog-262 .item-assets>a{max-width:40%;order:0}.module-catalog-262 .item-assets
+.subitems{width:60%}.module-catalog-262 .item-assets .catalog-image{display:block}@media (max-width: 1024px){.module-catalog-262 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 1 * 20px) / 2 - 0.01px)}.module-catalog-262 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 2 - 0.01px)}.module-catalog-262 .swiper-buttons{display:none !important}}@media (max-width: 760px){.module-catalog-262 .swiper-container{overflow:visible}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Montserrat' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => 200,
+      'resize' => 'fit',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        1024 => 
+        array (
+          'items' => 2,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'See all products',
+    'status' => true,
+    'id' => 'catalog-5ecd321931a32',
+    'module_id' => 262,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-262',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '262-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Apple Cinema 30&quot;',
+            'href' => 'http://localhost/kids-toys/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=42',
+            'image' => 'http://localhost/kids-toys/image/cache/catalog/demo/apple_cinema_30-200x200w.jpg',
+            'image2x' => 'http://localhost/kids-toys/image/cache/catalog/demo/apple_cinema_30-400x400w.jpg',
+          ),
+          1 => 
+          array (
+            'name' => 'iMac',
+            'href' => 'http://localhost/kids-toys/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=41',
+            'image' => 'http://localhost/kids-toys/image/cache/catalog/demo/imac_1-200x200w.jpg',
+            'image2x' => 'http://localhost/kids-toys/image/cache/catalog/demo/imac_1-400x400w.jpg',
+          ),
+          2 => 
+          array (
+            'name' => 'iPhone',
+            'href' => 'http://localhost/kids-toys/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=40',
+            'image' => 'http://localhost/kids-toys/image/cache/catalog/demo/iphone_1-200x200h.jpg',
+            'image2x' => 'http://localhost/kids-toys/image/cache/catalog/demo/iphone_1-400x400h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'iPod Classic',
+            'href' => 'http://localhost/kids-toys/index.php?route=product/product&amp;manufacturer_id=8&amp;product_id=48',
+            'image' => 'http://localhost/kids-toys/image/cache/catalog/demo/ipod_classic_1-200x200h.jpg',
+            'image2x' => 'http://localhost/kids-toys/image/cache/catalog/demo/ipod_classic_1-400x400h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Apple',
+        'href' => 'http://localhost/kids-toys/index.php?route=product/manufacturer/info&amp;manufacturer_id=8',
+        'total' => '10',
+      ),
+    ),
+  ),
+);
