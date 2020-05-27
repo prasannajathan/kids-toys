@@ -1,1 +1,66 @@
-misc.txt
+###################### OPENCART ####################
+
+## Config and Htaccess Files
+/.htaccess
+/config.php
+/admin/config.php
+
+
+## Image Cache Files
+/image/cache/*
+!/image/cache/index.html
+
+## System Cache Files
+/system/storage-kids-toys/*
+/system/cache/*
+!/system/cache/index.html
+
+## Vqmod Cache Files
+/vqmod/mods.cache
+/vqmod/vqcache/*
+!/image/cache/index.html
+
+
+## System Log Files
+/system/logs/*
+!/system/logs/index.html
+
+## Vqmod Log Files
+/vqmod/logs/*
+!/vqmod/logs/.gitkeep
+ 
+## WHY IGNORE THESE??? COMMENT OUT FOR NOW
+
+## Templates Files
+#/image/templates/*
+#/image/templates/default.jpg
+#
+## Download Files
+#/download/*
+#!/download/index.html
+
+
+
+###################### WINDOWS #####################
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+
+######### NEVER IGNORE PURPOSEFULLY KEPT FOLDERS #########
+# Must put a ".gitkeep" file in empty folders you want to keep
+!/*/.gitkeep

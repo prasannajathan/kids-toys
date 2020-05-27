@@ -29,3 +29,4 @@
 2020-05-26 14:11:46 - PHP Notice:  Undefined variable: mysql in C:\wamp64\www\kids-toys\install\controller\install\step_3.php on line 280
 2020-05-26 14:11:46 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\wamp64\www\kids-toys\install\controller\install\step_3.php on line 280
 2020-05-26 15:13:32 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\wamp64\www\kids-toys\system\library\template\Twig\Node\Module.php on line 346
+2020-05-26 16:10:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\wamp64\www\kids-toys\system\library\mail\mail.php on line 77

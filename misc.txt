@@ -1,0 +1,30 @@
+localhost/phpmyadmin
+
+username: root
+pwd:
+
+
+
+------------------------
+
+
+localhost/kids-toys
+
+MySQLi
+hostname: localhost
+
+username: root
+password: 
+
+database: product
+
+port: 3306
+--------------------
+
+Admin 
+
+username: admin
+password: admin
+
+E-mail: prasannajathan@gmail.com
+

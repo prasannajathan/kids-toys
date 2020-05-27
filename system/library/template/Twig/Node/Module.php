@@ -344,6 +344,9 @@ class Twig_Node_Module extends Twig_Node
 
             foreach ($nodes as $node) {
                 if (!count($node)) {
+                // https://forum.opencart.com/viewtopic.php?t=213512#p785411
+                // if (is_null($node)) {
+                // if (!isset($node) OR !count($node)) {
                     continue;
                 }
 
