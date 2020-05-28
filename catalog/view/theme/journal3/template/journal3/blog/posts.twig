@@ -8,9 +8,9 @@
   <h1 class="title page-title">
     <span >
       {{ heading_title }}
-      {% if feed_url %}
+      {# {% if feed_url %}
         <a class="blog-feed" href="{{ feed_url }}" target="_blank"><span class="feed-text">{{ j3.settings.get('blogFeedText') }}</span></a>
-      {% endif %}
+      {% endif %} #}
     </span>
   </h1>
 {% endif %}
@@ -21,9 +21,9 @@
       {% if j3.settings.get('pageTitlePosition') == 'default' %}
         <h1 class="title page-title">
           {{ heading_title }}
-          {% if feed_url %}
+          {# {% if feed_url %}
             <a class="blog-feed" href="{{ feed_url }}" target="_blank"><span class="feed-text">{{ j3.settings.get('blogFeedText') }}</span></a>
-          {% endif %}
+          {% endif %} #}
         </h1>
       {% endif %}
       {{ content_top }}
